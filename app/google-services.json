@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23346485065",
+    "firebase_url": "https://saloonshop-e67e6.firebaseio.com",
+    "project_id": "saloonshop-e67e6",
+    "storage_bucket": "saloonshop-e67e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23346485065:android:f026403f3cef91a4",
+        "android_client_info": {
+          "package_name": "com.example.saloonshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23346485065-paie9e2ocaegeihk3lv5t9uac61es63o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saloonshop",
+            "certificate_hash": "9f4d8f0433584d19de94a56ead00df1d1e03638d"
+          }
+        },
+        {
+          "client_id": "23346485065-nhokf2o7c3hvomriuo5rrucm7tgt0olg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAErWE923t6Qgt1sd2sdaUe0n9y__L1yRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23346485065-nhokf2o7c3hvomriuo5rrucm7tgt0olg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
